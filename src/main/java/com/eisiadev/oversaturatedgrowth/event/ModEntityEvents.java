@@ -3,7 +3,6 @@ package com.eisiadev.oversaturatedgrowth.event;
 import com.eisiadev.oversaturatedgrowth.OversaturatedGrowth;
 import com.eisiadev.oversaturatedgrowth.entity.*;
 import com.eisiadev.oversaturatedgrowth.entity.LardRetcherEntity;
-import com.eisiadev.oversaturatedgrowth.entity.MotherRetcherEntity;
 import com.eisiadev.oversaturatedgrowth.init.ModEntities;
 import net.minecraft.world.entity.SpawnPlacements;
 import net.minecraft.world.entity.monster.Monster;
@@ -23,7 +22,6 @@ public class ModEntityEvents {
         event.put(ModEntities.CHEF.get(),                ChefEntity.createAttributes().build());
         event.put(ModEntities.GOURMAND_KNIGHT.get(),     GourmandKnightEntity.createAttributes().build());
         event.put(ModEntities.LARD_RETCHER.get(),        LardRetcherEntity.createAttributes().build());
-        event.put(ModEntities.MOTHER_RETCHER.get(), MotherRetcherEntity.createAttributes().build());
         event.put(ModEntities.LARD_SLIME.get(),          LardSlimeEntity.createAttributes().build());
         event.put(ModEntities.LARD_BLOAT.get(),          LardBloatEntity.createAttributes().build());
         event.put(ModEntities.LARD_DRIPPER.get(),        LardDripperEntity.createAttributes().build());
@@ -105,12 +103,6 @@ public class ModEntityEvents {
                 SpawnPlacementRegisterEvent.Operation.REPLACE);
 
         event.register(ModEntities.LARD_RETCHER.get(),
-                SpawnPlacements.Type.ON_GROUND,
-                Heightmap.Types.MOTION_BLOCKING_NO_LEAVES,
-                Monster::checkMonsterSpawnRules,
-                SpawnPlacementRegisterEvent.Operation.REPLACE);
-
-        event.register(ModEntities.MOTHER_RETCHER.get(),
                 SpawnPlacements.Type.ON_GROUND,
                 Heightmap.Types.MOTION_BLOCKING_NO_LEAVES,
                 Monster::checkMonsterSpawnRules,

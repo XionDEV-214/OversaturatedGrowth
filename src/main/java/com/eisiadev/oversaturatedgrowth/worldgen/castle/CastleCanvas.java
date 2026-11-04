@@ -131,11 +131,11 @@ public final class CastleCanvas {
         first.put("entity", fe);
         tag.put("SpawnData", first);
         tag.put("SpawnPotentials", pot);
-        tag.putShort("MaxNearbyEntities", (short) 6);
+        tag.putShort("MaxNearbyEntities", (short) 4);
         tag.putShort("RequiredPlayerRange", (short) 24);
-        tag.putShort("MinSpawnDelay", (short) 100);
-        tag.putShort("MaxSpawnDelay", (short) 350);
-        tag.putShort("SpawnCount", (short) 3);
+        tag.putShort("MinSpawnDelay", (short) 200);
+        tag.putShort("MaxSpawnDelay", (short) 600);
+        tag.putShort("SpawnCount", (short) 2);
         sp.load(tag);
     }
     public void mob(int x, int y, int z, net.minecraft.world.entity.EntityType<? extends net.minecraft.world.entity.Mob> type) {

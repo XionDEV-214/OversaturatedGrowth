@@ -21,11 +21,9 @@
   "hud.oversaturatedgrowth.consumed_time": "Time left: %ss",
   "hud.oversaturatedgrowth.consumed_unlimited": "∞ No time limit",
   "entity.oversaturatedgrowth.lard_retcher": "Lard Retcher",
-  "entity.oversaturatedgrowth.mother_retcher": "Mother Retcher",
   "entity.oversaturatedgrowth.lard_glob": "Lard Glob",
   "entity.oversaturatedgrowth.lard_slime": "Lard Slime",
   "item.oversaturatedgrowth.lard_retcher_spawn_egg": "Lard Retcher Spawn Egg",
-  "item.oversaturatedgrowth.mother_retcher_spawn_egg": "Mother Retcher Spawn Egg",
   "item.oversaturatedgrowth.lard_slime_spawn_egg": "Lard Slime Spawn Egg",
   "effect.oversaturatedgrowth.weight_gaining": "Weight Gaining",
   "item.minecraft.potion.effect.weight_gaining_1": "Potion of Weight Gaining",
@@ -281,5 +279,6 @@
   "gui.oversaturatedgrowth.accessory.click.to_inventory": "Click: take out to your inventory",
   "gui.oversaturatedgrowth.accessory.click.shift_to_tab": "Shift+Click: put in the %s slot",
   "gui.oversaturatedgrowth.accessory.click.side_to_bag": "Click: move to the Accessory Bag",
-  "gui.oversaturatedgrowth.accessory.click.shift_to_inventory": "Shift+Click: take out to your inventory"
+  "gui.oversaturatedgrowth.accessory.click.shift_to_inventory": "Shift+Click: take out to your inventory",
+  "biome.oversaturatedgrowth.lardsludge_grotto": "Lardswept Grotto"
 }

@@ -35,7 +35,7 @@ public class ButlerEntity extends AbstractSkeleton {
         return net.minecraft.world.entity.monster.Monster.createMonsterAttributes()
                 .add(Attributes.MAX_HEALTH, 20.0)
                 .add(Attributes.MOVEMENT_SPEED, 0.30)
-                .add(Attributes.ATTACK_DAMAGE, 1.0)
+                .add(Attributes.ATTACK_DAMAGE, 0.5)
                 .add(Attributes.ATTACK_KNOCKBACK, 1.2)
                 .add(Attributes.FOLLOW_RANGE, 24.0);
     }

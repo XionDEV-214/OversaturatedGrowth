@@ -34,7 +34,6 @@ public class ModCreativeTabs {
                             }
                         }
                         output.accept(ModItems.LARD_RETCHER_SPAWN_EGG.get());
-                        output.accept(ModItems.MOTHER_RETCHER_SPAWN_EGG.get());
                         output.accept(ModItems.LARD_SLIME_SPAWN_EGG.get());
                         output.accept(ModItems.LARD_BLOAT_SPAWN_EGG.get());
                         output.accept(ModItems.LARD_DRIPPER_SPAWN_EGG.get());

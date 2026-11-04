@@ -38,8 +38,7 @@ public final class RegistryRemap {
     }
 
     static String newPath(String p) {
-        return p.replace("mother_lipo_vomiter", "mother_retcher")
-                .replace("lipo_vomiter", "lard_retcher")
+        return p.replace("lipo_vomiter", "lard_retcher")
                 .replace("lipo_essence_extractor", "lard_extractor")
                 .replace("lipo_essence", "refined_lard")
                 .replace("lipo_sludge_ball", "lard_sludge_ball")

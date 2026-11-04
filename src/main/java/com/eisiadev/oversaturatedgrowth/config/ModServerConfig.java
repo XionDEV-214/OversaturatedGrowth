@@ -8,8 +8,6 @@ public class ModServerConfig {
 
     public static final ForgeConfigSpec.ConfigValue<Double> retcherMeleeCalPercent;
 
-    public static final ForgeConfigSpec.ConfigValue<Double> motherMeleeCalPercent;
-
     public static final ForgeConfigSpec.ConfigValue<Integer> globSpitCount;
 
     public static final ForgeConfigSpec.ConfigValue<Double> globCalPercent;
@@ -48,12 +46,6 @@ public class ModServerConfig {
         retcherMeleeCalPercent = builder
                 .comment("Calorie gain on melee hit, as % of abs_cal_cap. Default: ~5.3% (=16/300)")
                 .defineInRange("melee_cal_percent", 5.3, 0.0, 100.0);
-        builder.pop();
-
-        builder.comment("── MotherRetcher ──").push("mother_retcher");
-        motherMeleeCalPercent = builder
-                .comment("Calorie gain on melee hit, as % of abs_cal_cap. Default: ~13.3% (=40/300)")
-                .defineInRange("melee_cal_percent", 13.3, 0.0, 100.0);
         builder.pop();
 
         builder.comment("── LardGlob ──").push("lard_glob");

@@ -22,8 +22,8 @@ public class ModItems {
     public static final RegistryObject<Item> REFINED_LARD = ITEMS.register("refined_lard",
             () -> new Item(new Item.Properties()
                     .food(new FoodProperties.Builder()
-                            .nutrition(17)
-                            .saturationMod(2f)
+                            .nutrition(4)
+                            .saturationMod(0.3f)
                             .effect(() -> new MobEffectInstance(ModEffects.WEIGHT_GAINING.get(), 200, 1), 1.0f)
                             .build())));
 
@@ -124,11 +124,6 @@ public class ModItems {
             ITEMS.register("glutton_toad_spawn_egg",
                     () -> new ForgeSpawnEggItem(ModEntities.GLUTTON_TOAD,
                             0x6E7A2A, 0xE8A030, new Item.Properties()));
-
-    public static final RegistryObject<Item> MOTHER_RETCHER_SPAWN_EGG =
-            ITEMS.register("mother_retcher_spawn_egg",
-                    () -> new ForgeSpawnEggItem(ModEntities.MOTHER_RETCHER,
-                            0xC8A030, 0x3A1E08, new Item.Properties()));
 
     public static final RegistryObject<Item> LARD_SLIME_SPAWN_EGG =
             ITEMS.register("lard_slime_spawn_egg",

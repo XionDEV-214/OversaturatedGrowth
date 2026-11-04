@@ -36,10 +36,10 @@ public class GourmandKnightEntity extends Monster {
 
     public static AttributeSupplier.Builder createAttributes() {
         return Monster.createMonsterAttributes()
-                .add(Attributes.MAX_HEALTH, 80.0)
+                .add(Attributes.MAX_HEALTH, 50.0)
                 .add(Attributes.ARMOR, 8.0)
                 .add(Attributes.MOVEMENT_SPEED, 0.18)
-                .add(Attributes.ATTACK_DAMAGE, 4.0)
+                .add(Attributes.ATTACK_DAMAGE, 2.0)
                 .add(Attributes.ATTACK_KNOCKBACK, 1.5)
                 .add(Attributes.KNOCKBACK_RESISTANCE, 0.7)
                 .add(Attributes.FOLLOW_RANGE, 20.0);

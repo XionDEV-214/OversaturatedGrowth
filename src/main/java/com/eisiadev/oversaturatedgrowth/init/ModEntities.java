@@ -5,7 +5,6 @@ import com.eisiadev.oversaturatedgrowth.entity.*;
 import com.eisiadev.oversaturatedgrowth.entity.projectile.LardDripEntity;
 import com.eisiadev.oversaturatedgrowth.entity.projectile.LardPotEntity;
 import com.eisiadev.oversaturatedgrowth.entity.LardRetcherEntity;
-import com.eisiadev.oversaturatedgrowth.entity.MotherRetcherEntity;
 import com.eisiadev.oversaturatedgrowth.entity.projectile.LardGlobEntity;
 import net.minecraft.world.entity.EntityType;
 import net.minecraft.world.entity.MobCategory;
@@ -67,13 +66,6 @@ public class ModEntities {
                             .sized(0.6f, 1.95f)
                             .clientTrackingRange(8)
                             .build("oversaturatedgrowth:entities/lard_retcher"));
-
-    public static final RegistryObject<EntityType<MotherRetcherEntity>> MOTHER_RETCHER =
-            ENTITY_TYPES.register("mother_retcher", () ->
-                    EntityType.Builder.<MotherRetcherEntity>of(MotherRetcherEntity::new, MobCategory.MONSTER)
-                            .sized(0.6f * MotherRetcherEntity.MODEL_SCALE, 1.95f * MotherRetcherEntity.MODEL_SCALE)
-                            .clientTrackingRange(12)
-                            .build("oversaturatedgrowth:entities/mother_retcher"));
 
     public static final RegistryObject<EntityType<LardGlobEntity>> LARD_GLOB =
             ENTITY_TYPES.register("lard_glob", () ->

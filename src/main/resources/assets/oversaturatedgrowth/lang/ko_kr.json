@@ -6,11 +6,9 @@
   "block.oversaturatedgrowth.lard_extractor": "라드 추출기",
   "fluid_type.oversaturatedgrowth.refined_lard": "정제 라드",
   "entity.oversaturatedgrowth.lard_retcher": "라드 구토충",
-  "entity.oversaturatedgrowth.mother_retcher": "어미 구토충",
   "entity.oversaturatedgrowth.lard_glob": "라드 덩어리",
   "entity.oversaturatedgrowth.lard_slime": "라드 슬라임",
   "item.oversaturatedgrowth.lard_retcher_spawn_egg": "라드 구토충 스폰 알",
-  "item.oversaturatedgrowth.mother_retcher_spawn_egg": "어미 구토충 스폰 알",
   "item.oversaturatedgrowth.lard_slime_spawn_egg": "라드 슬라임 스폰 알",
   "effect.oversaturatedgrowth.weight_gaining": "체중 증가",
   "message.oversaturatedgrowth.lard_extractor_not_enough_weight": "추출할 체중이 부족합니다.",
@@ -281,5 +279,6 @@
   "gui.oversaturatedgrowth.accessory.click.to_inventory": "좌클릭: 인벤토리로 꺼내기",
   "gui.oversaturatedgrowth.accessory.click.shift_to_tab": "Shift+좌클릭: %s 칸에 넣기",
   "gui.oversaturatedgrowth.accessory.click.side_to_bag": "좌클릭: 액세서리 백으로 옮기기",
-  "gui.oversaturatedgrowth.accessory.click.shift_to_inventory": "Shift+좌클릭: 인벤토리로 꺼내기"
+  "gui.oversaturatedgrowth.accessory.click.shift_to_inventory": "Shift+좌클릭: 인벤토리로 꺼내기",
+  "biome.oversaturatedgrowth.lardsludge_grotto": "라드스웹트 그로토"
 }

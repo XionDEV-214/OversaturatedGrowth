@@ -33,9 +33,9 @@ public class ChefEntity extends Monster {
 
     public static AttributeSupplier.Builder createAttributes() {
         return Monster.createMonsterAttributes()
-                .add(Attributes.MAX_HEALTH, 40.0)
+                .add(Attributes.MAX_HEALTH, 30.0)
                 .add(Attributes.MOVEMENT_SPEED, 0.24)
-                .add(Attributes.ATTACK_DAMAGE, 3.0)
+                .add(Attributes.ATTACK_DAMAGE, 1.5)
                 .add(Attributes.KNOCKBACK_RESISTANCE, 0.2)
                 .add(Attributes.FOLLOW_RANGE, 24.0);
     }

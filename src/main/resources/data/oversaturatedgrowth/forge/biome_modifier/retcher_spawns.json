@@ -1,18 +1,3 @@
 {
-  "type": "forge:add_spawns",
-  "biomes": "#oversaturatedgrowth:spawns_retchers",
-  "spawners": [
-    {
-      "type": "oversaturatedgrowth:lard_retcher",
-      "weight": 100,
-      "minCount": 1,
-      "maxCount": 2
-    },
-    {
-      "type": "oversaturatedgrowth:mother_retcher",
-      "weight": 3,
-      "minCount": 1,
-      "maxCount": 1
-    }
-  ]
+  "type": "forge:none"
 }

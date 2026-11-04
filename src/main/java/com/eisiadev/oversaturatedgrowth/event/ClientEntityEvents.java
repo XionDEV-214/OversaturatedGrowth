@@ -4,7 +4,6 @@ import com.eisiadev.oversaturatedgrowth.OversaturatedGrowth;
 import com.eisiadev.oversaturatedgrowth.client.renderer.LardGlobRenderer;
 import com.eisiadev.oversaturatedgrowth.client.renderer.LardSlimeRenderer;
 import com.eisiadev.oversaturatedgrowth.client.renderer.LardRetcherRenderer;
-import com.eisiadev.oversaturatedgrowth.client.renderer.MotherRetcherRenderer;
 import com.eisiadev.oversaturatedgrowth.init.ModEntities;
 import com.eisiadev.oversaturatedgrowth.client.model.*;
 import com.eisiadev.oversaturatedgrowth.client.renderer.OGMobRenderers;
@@ -31,7 +30,6 @@ public class ClientEntityEvents {
     @SubscribeEvent
     public static void onRegisterRenderers(EntityRenderersEvent.RegisterRenderers event) {
         event.registerEntityRenderer(ModEntities.LARD_RETCHER.get(),        LardRetcherRenderer::new);
-        event.registerEntityRenderer(ModEntities.MOTHER_RETCHER.get(), MotherRetcherRenderer::new);
         event.registerEntityRenderer(ModEntities.LARD_GLOB.get(),           LardGlobRenderer::new);
         event.registerEntityRenderer(ModEntities.LARD_SLIME.get(),          LardSlimeRenderer::new);
         event.registerEntityRenderer(ModEntities.LARD_BLOAT.get(),          OGMobRenderers.Bloat::new);
