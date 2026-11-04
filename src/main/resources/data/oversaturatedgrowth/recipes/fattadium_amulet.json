@@ -1,0 +1,28 @@
+{
+  "conditions": [
+    {
+      "type": "forge:false"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    " S ",
+    "F F",
+    " C "
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:string"
+    },
+    "F": {
+      "item": "oversaturatedgrowth:fattadium"
+    },
+    "C": {
+      "item": "oversaturatedgrowth:crystallized_fattaberry"
+    }
+  },
+  "result": {
+    "item": "oversaturatedgrowth:fattadium_amulet"
+  }
+}

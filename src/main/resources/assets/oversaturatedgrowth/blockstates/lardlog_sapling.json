@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "stage=0": {
+      "model": "oversaturatedgrowth:block/lardlog_sapling"
+    },
+    "stage=1": {
+      "model": "oversaturatedgrowth:block/lardlog_sapling"
+    }
+  }
+}

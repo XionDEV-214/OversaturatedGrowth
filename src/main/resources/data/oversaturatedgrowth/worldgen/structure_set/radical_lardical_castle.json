@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "oversaturatedgrowth:radical_lardical_castle",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 48,
+    "separation": 24,
+    "salt": 88120431
+  }
+}

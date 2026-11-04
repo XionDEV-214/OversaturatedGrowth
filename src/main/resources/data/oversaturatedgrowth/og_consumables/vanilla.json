@@ -1,0 +1,119 @@
+{
+  "entries": [
+    {
+      "block": "minecraft:cake",
+      "calories_percent": 3,
+      "weight_percent": 1,
+      "hold_ticks": 30,
+      "mode": "bite"
+    },
+    {
+      "block": "minecraft:honey_block",
+      "calories_percent": 8,
+      "weight_percent": 2,
+      "hold_ticks": 30
+    },
+    {
+      "block": "minecraft:hay_block",
+      "calories_percent": 5,
+      "weight_percent": 1,
+      "hold_ticks": 30
+    },
+    {
+      "block": "minecraft:melon",
+      "calories_percent": 6,
+      "weight_percent": 2,
+      "hold_ticks": 30
+    },
+    {
+      "block": "minecraft:dried_kelp_block",
+      "calories_percent": 5,
+      "weight_percent": 1,
+      "hold_ticks": 30
+    },
+    {
+      "block": "minecraft:pumpkin",
+      "calories_percent": 5,
+      "weight_percent": 1,
+      "hold_ticks": 30
+    },
+    {
+      "block": "minecraft:carved_pumpkin",
+      "calories_percent": 5,
+      "weight_percent": 1,
+      "hold_ticks": 30
+    },
+    {
+      "block": "minecraft:jack_o_lantern",
+      "calories_percent": 5,
+      "weight_percent": 1,
+      "hold_ticks": 30
+    },
+    {
+      "block": "minecraft:brown_mushroom_block",
+      "calories_percent": 4,
+      "weight_percent": 1,
+      "hold_ticks": 30
+    },
+    {
+      "block": "minecraft:red_mushroom_block",
+      "calories_percent": 4,
+      "weight_percent": 1,
+      "hold_ticks": 30
+    },
+    {
+      "block": "minecraft:mushroom_stem",
+      "calories_percent": 3,
+      "weight_percent": 1,
+      "hold_ticks": 30
+    },
+    {
+      "block": "oversaturatedgrowth:lard_block",
+      "calories_percent": 12,
+      "weight_percent": 4,
+      "hold_ticks": 40,
+      "effects": [
+        {
+          "id": "oversaturatedgrowth:weight_gaining",
+          "duration": 100,
+          "amplifier": 3
+        },
+        {
+          "id": "oversaturatedgrowth:oversaturated",
+          "duration": 100,
+          "amplifier": 2
+        }
+      ]
+    },
+    {
+      "block": "oversaturatedgrowth:lard_sludge_block",
+      "calories_percent": 15,
+      "weight_percent": 5,
+      "hold_ticks": 40
+    },
+    {
+      "block": "oversaturatedgrowth:lardstone",
+      "calories_percent": 4,
+      "weight_percent": 1,
+      "hold_ticks": 50
+    },
+    {
+      "block": "oversaturatedgrowth:weathered_lardstone",
+      "calories_percent": 3,
+      "weight_percent": 1,
+      "hold_ticks": 50
+    },
+    {
+      "block": "oversaturatedgrowth:greasy_lardstone",
+      "calories_percent": 6,
+      "weight_percent": 2,
+      "hold_ticks": 50
+    },
+    {
+      "block": "oversaturatedgrowth:weathered_greasy_lardstone",
+      "calories_percent": 5,
+      "weight_percent": 2,
+      "hold_ticks": 50
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "oversaturatedgrowth:lardstone_bricks"
+    }
+  },
+  "result": {
+    "item": "oversaturatedgrowth:lardstone_brick_wall",
+    "count": 6
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "X  ",
+    "XX ",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "oversaturatedgrowth:lardlog_planks"
+    }
+  },
+  "result": {
+    "item": "oversaturatedgrowth:lardlog_stairs",
+    "count": 4
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "oversaturatedgrowth:block/lardlog_leaves_vein_1_mid"
+  },
+  "render_type": "minecraft:cutout"
+}

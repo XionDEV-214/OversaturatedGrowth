@@ -1,0 +1,7 @@
+{
+  "type": "oversaturatedgrowth:lard_vault",
+  "biomes": "oversaturatedgrowth:lardstone_cavern",
+  "step": "underground_structures",
+  "spawn_overrides": {},
+  "terrain_adaptation": "none"
+}

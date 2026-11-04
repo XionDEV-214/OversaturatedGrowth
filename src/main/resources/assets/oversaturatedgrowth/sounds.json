@@ -1,0 +1,122 @@
+{
+  "belch": {
+    "sounds": [
+      "oversaturatedgrowth:belch/belch1",
+      "oversaturatedgrowth:belch/belch2",
+      "oversaturatedgrowth:belch/belch3",
+      "oversaturatedgrowth:belch/belch4",
+      "oversaturatedgrowth:belch/belch5",
+      "oversaturatedgrowth:belch/belch6",
+      "oversaturatedgrowth:belch/belch7",
+      "oversaturatedgrowth:belch/belch8"
+    ]
+  },
+  "digesting": {
+    "sounds": [
+      "oversaturatedgrowth:digesting/digesting1",
+      "oversaturatedgrowth:digesting/digesting2",
+      "oversaturatedgrowth:digesting/digesting3",
+      "oversaturatedgrowth:digesting/digesting4",
+      "oversaturatedgrowth:digesting/digesting5",
+      "oversaturatedgrowth:digesting/digesting6",
+      "oversaturatedgrowth:digesting/digesting7",
+      "oversaturatedgrowth:digesting/digesting8"
+    ]
+  },
+  "rumble": {
+    "sounds": [
+      "oversaturatedgrowth:rumble/rumble1",
+      "oversaturatedgrowth:rumble/rumble2",
+      "oversaturatedgrowth:rumble/rumble3",
+      "oversaturatedgrowth:rumble/rumble4",
+      "oversaturatedgrowth:rumble/rumble5",
+      "oversaturatedgrowth:rumble/rumble6",
+      "oversaturatedgrowth:rumble/rumble7",
+      "oversaturatedgrowth:rumble/rumble8",
+      "oversaturatedgrowth:rumble/rumble9",
+      "oversaturatedgrowth:rumble/rumble10",
+      "oversaturatedgrowth:rumble/rumble11",
+      "oversaturatedgrowth:rumble/rumble12",
+      "oversaturatedgrowth:rumble/rumble13",
+      "oversaturatedgrowth:rumble/rumble14",
+      "oversaturatedgrowth:rumble/rumble15"
+    ]
+  },
+  "slosh": {
+    "sounds": [
+      "oversaturatedgrowth:slosh/slosh1",
+      "oversaturatedgrowth:slosh/slosh2",
+      "oversaturatedgrowth:slosh/slosh3",
+      "oversaturatedgrowth:slosh/slosh4",
+      "oversaturatedgrowth:slosh/slosh5",
+      "oversaturatedgrowth:slosh/slosh6",
+      "oversaturatedgrowth:slosh/slosh7",
+      "oversaturatedgrowth:slosh/slosh8",
+      "oversaturatedgrowth:slosh/slosh9",
+      "oversaturatedgrowth:slosh/slosh10",
+      "oversaturatedgrowth:slosh/slosh11"
+    ]
+  },
+  "swallow": {
+    "sounds": [
+      "oversaturatedgrowth:swallow/swallow1",
+      "oversaturatedgrowth:swallow/swallow2",
+      "oversaturatedgrowth:swallow/swallow3",
+      "oversaturatedgrowth:swallow/swallow4",
+      "oversaturatedgrowth:swallow/swallow5",
+      "oversaturatedgrowth:swallow/swallow6",
+      "oversaturatedgrowth:swallow/swallow7",
+      "oversaturatedgrowth:swallow/swallow8",
+      "oversaturatedgrowth:swallow/swallow9",
+      "oversaturatedgrowth:swallow/swallow10",
+      "oversaturatedgrowth:swallow/swallow11",
+      "oversaturatedgrowth:swallow/swallow12",
+      "oversaturatedgrowth:swallow/swallow13"
+    ]
+  },
+  "lardstone_break": {
+    "sounds": [
+      {
+        "name": "minecraft:block.stone.break",
+        "type": "event"
+      }
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  "lardstone_step": {
+    "sounds": [
+      {
+        "name": "minecraft:block.stone.step",
+        "type": "event"
+      }
+    ],
+    "subtitle": "subtitles.block.generic.step"
+  },
+  "lardstone_place": {
+    "sounds": [
+      {
+        "name": "minecraft:block.stone.place",
+        "type": "event"
+      }
+    ],
+    "subtitle": "subtitles.block.generic.place"
+  },
+  "lardstone_hit": {
+    "sounds": [
+      {
+        "name": "minecraft:block.stone.hit",
+        "type": "event"
+      }
+    ],
+    "subtitle": "subtitles.block.generic.hit"
+  },
+  "lardstone_fall": {
+    "sounds": [
+      {
+        "name": "minecraft:block.stone.fall",
+        "type": "event"
+      }
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  }
+}

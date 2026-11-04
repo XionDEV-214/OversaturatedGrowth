@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:overworld_carver_replaceables",
+    "oversaturatedgrowth:lardstone",
+    "oversaturatedgrowth:weathered_lardstone",
+    "oversaturatedgrowth:greasy_lardstone",
+    "oversaturatedgrowth:weathered_greasy_lardstone"
+  ]
+}

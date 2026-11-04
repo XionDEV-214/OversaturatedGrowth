@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "oversaturatedgrowth:lardstone_wall",
+    "oversaturatedgrowth:polished_lardstone_wall",
+    "oversaturatedgrowth:lardstone_brick_wall"
+  ]
+}

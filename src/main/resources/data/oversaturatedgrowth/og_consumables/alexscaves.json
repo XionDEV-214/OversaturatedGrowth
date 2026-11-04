@@ -1,0 +1,442 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "alexscaves"
+    }
+  ],
+  "entries": [
+    {
+      "block": "alexscaves:block_of_chocolate",
+      "calories_percent": 12,
+      "weight_percent": 4,
+      "hold_ticks": 40
+    },
+    {
+      "block": "alexscaves:block_of_polished_chocolate",
+      "calories_percent": 12,
+      "weight_percent": 4,
+      "hold_ticks": 40
+    },
+    {
+      "block": "alexscaves:block_of_chiseled_chocolate",
+      "calories_percent": 12,
+      "weight_percent": 4,
+      "hold_ticks": 40
+    },
+    {
+      "block": "alexscaves:block_of_frosted_chocolate",
+      "calories_percent": 12,
+      "weight_percent": 4,
+      "hold_ticks": 40
+    },
+    {
+      "block": "alexscaves:block_of_chocolate_frosting",
+      "calories_percent": 12,
+      "weight_percent": 4,
+      "hold_ticks": 40
+    },
+    {
+      "block": "alexscaves:block_of_frosting",
+      "calories_percent": 12,
+      "weight_percent": 4,
+      "hold_ticks": 40
+    },
+    {
+      "block": "alexscaves:block_of_vanilla_frosting",
+      "calories_percent": 12,
+      "weight_percent": 4,
+      "hold_ticks": 40
+    },
+    {
+      "block": "alexscaves:gingerbread_block",
+      "calories_percent": 12,
+      "weight_percent": 4,
+      "hold_ticks": 40
+    },
+    {
+      "block": "alexscaves:gingerbread_bricks",
+      "calories_percent": 12,
+      "weight_percent": 4,
+      "hold_ticks": 40
+    },
+    {
+      "block": "alexscaves:frosted_gingerbread_block",
+      "calories_percent": 12,
+      "weight_percent": 4,
+      "hold_ticks": 40
+    },
+    {
+      "block": "alexscaves:frosted_gingerbread_bricks",
+      "calories_percent": 12,
+      "weight_percent": 4,
+      "hold_ticks": 40
+    },
+    {
+      "block": "alexscaves:gingerbread_brick_stairs",
+      "calories_percent": 9,
+      "weight_percent": 3,
+      "hold_ticks": 30
+    },
+    {
+      "block": "alexscaves:gingerbread_brick_slab",
+      "calories_percent": 6,
+      "weight_percent": 2,
+      "hold_ticks": 30
+    },
+    {
+      "block": "alexscaves:gingerbread_brick_wall",
+      "calories_percent": 9,
+      "weight_percent": 3,
+      "hold_ticks": 30
+    },
+    {
+      "block": "alexscaves:gingerbread_stairs",
+      "calories_percent": 9,
+      "weight_percent": 3,
+      "hold_ticks": 30
+    },
+    {
+      "block": "alexscaves:gingerbread_slab",
+      "calories_percent": 6,
+      "weight_percent": 2,
+      "hold_ticks": 30
+    },
+    {
+      "block": "alexscaves:gingerbread_wall",
+      "calories_percent": 9,
+      "weight_percent": 3,
+      "hold_ticks": 30
+    },
+    {
+      "block": "alexscaves:gingerbread_door",
+      "calories_percent": 6,
+      "weight_percent": 2,
+      "hold_ticks": 30
+    },
+    {
+      "block": "alexscaves:frosted_gingerbread_brick_stairs",
+      "calories_percent": 9,
+      "weight_percent": 3,
+      "hold_ticks": 30
+    },
+    {
+      "block": "alexscaves:frosted_gingerbread_brick_slab",
+      "calories_percent": 6,
+      "weight_percent": 2,
+      "hold_ticks": 30
+    },
+    {
+      "block": "alexscaves:frosted_gingerbread_brick_wall",
+      "calories_percent": 9,
+      "weight_percent": 3,
+      "hold_ticks": 30
+    },
+    {
+      "block": "alexscaves:frosted_gingerbread_stairs",
+      "calories_percent": 9,
+      "weight_percent": 3,
+      "hold_ticks": 30
+    },
+    {
+      "block": "alexscaves:frosted_gingerbread_slab",
+      "calories_percent": 6,
+      "weight_percent": 2,
+      "hold_ticks": 30
+    },
+    {
+      "block": "alexscaves:frosted_gingerbread_wall",
+      "calories_percent": 9,
+      "weight_percent": 3,
+      "hold_ticks": 30
+    },
+    {
+      "block": "alexscaves:frosted_gingerbread_door",
+      "calories_percent": 6,
+      "weight_percent": 2,
+      "hold_ticks": 30
+    },
+    {
+      "block": "alexscaves:gingerbarrel",
+      "calories_percent": 9,
+      "weight_percent": 3,
+      "hold_ticks": 30
+    },
+    {
+      "block": "alexscaves:sweet_puff",
+      "calories_percent": 6,
+      "weight_percent": 2,
+      "hold_ticks": 30
+    },
+    {
+      "block": "alexscaves:cake_layer",
+      "calories_percent": 6,
+      "weight_percent": 2,
+      "hold_ticks": 30
+    },
+    {
+      "block": "alexscaves:dough_block",
+      "calories_percent": 6,
+      "weight_percent": 2,
+      "hold_ticks": 30
+    },
+    {
+      "block": "alexscaves:cookie_block",
+      "calories_percent": 6,
+      "weight_percent": 2,
+      "hold_ticks": 30
+    },
+    {
+      "block": "alexscaves:wafer_cookie_block",
+      "calories_percent": 6,
+      "weight_percent": 2,
+      "hold_ticks": 30
+    },
+    {
+      "block": "alexscaves:wafer_cookie_stairs",
+      "calories_percent": 4,
+      "weight_percent": 1,
+      "hold_ticks": 25
+    },
+    {
+      "block": "alexscaves:wafer_cookie_slab",
+      "calories_percent": 3,
+      "weight_percent": 1,
+      "hold_ticks": 25
+    },
+    {
+      "block": "alexscaves:wafer_cookie_wall",
+      "calories_percent": 4,
+      "weight_percent": 1,
+      "hold_ticks": 25
+    },
+    {
+      "block": "alexscaves:vanilla_ice_cream",
+      "calories_percent": 8,
+      "weight_percent": 2,
+      "hold_ticks": 30
+    },
+    {
+      "block": "alexscaves:chocolate_ice_cream",
+      "calories_percent": 8,
+      "weight_percent": 2,
+      "hold_ticks": 30
+    },
+    {
+      "block": "alexscaves:sweetberry_ice_cream",
+      "calories_percent": 8,
+      "weight_percent": 2,
+      "hold_ticks": 30
+    },
+    {
+      "block": "alexscaves:candy_cane_block",
+      "calories_percent": 6,
+      "weight_percent": 2,
+      "hold_ticks": 30
+    },
+    {
+      "block": "alexscaves:chiseled_candy_cane_block",
+      "calories_percent": 6,
+      "weight_percent": 2,
+      "hold_ticks": 30
+    },
+    {
+      "block": "alexscaves:stripped_candy_cane_block",
+      "calories_percent": 6,
+      "weight_percent": 2,
+      "hold_ticks": 30
+    },
+    {
+      "block": "alexscaves:candy_cane",
+      "calories_percent": 3,
+      "weight_percent": 1,
+      "hold_ticks": 20
+    },
+    {
+      "block": "alexscaves:candy_cane_pole",
+      "calories_percent": 3,
+      "weight_percent": 1,
+      "hold_ticks": 20
+    },
+    {
+      "block": "alexscaves:stripped_candy_cane_pole",
+      "calories_percent": 3,
+      "weight_percent": 1,
+      "hold_ticks": 20
+    },
+    {
+      "block": "alexscaves:lollipop_bunch",
+      "calories_percent": 3,
+      "weight_percent": 1,
+      "hold_ticks": 20
+    },
+    {
+      "block": "alexscaves:small_peppermint",
+      "calories_percent": 3,
+      "weight_percent": 1,
+      "hold_ticks": 20
+    },
+    {
+      "block": "alexscaves:large_peppermint",
+      "calories_percent": 6,
+      "weight_percent": 2,
+      "hold_ticks": 30
+    },
+    {
+      "block": "alexscaves:gummy_ring_blue",
+      "calories_percent": 3,
+      "weight_percent": 1,
+      "hold_ticks": 20
+    },
+    {
+      "block": "alexscaves:gummy_ring_green",
+      "calories_percent": 3,
+      "weight_percent": 1,
+      "hold_ticks": 20
+    },
+    {
+      "block": "alexscaves:gummy_ring_pink",
+      "calories_percent": 3,
+      "weight_percent": 1,
+      "hold_ticks": 20
+    },
+    {
+      "block": "alexscaves:gummy_ring_red",
+      "calories_percent": 3,
+      "weight_percent": 1,
+      "hold_ticks": 20
+    },
+    {
+      "block": "alexscaves:gummy_ring_yellow",
+      "calories_percent": 3,
+      "weight_percent": 1,
+      "hold_ticks": 20
+    },
+    {
+      "block": "alexscaves:rock_candy_black",
+      "calories_percent": 4,
+      "weight_percent": 1,
+      "hold_ticks": 25
+    },
+    {
+      "block": "alexscaves:rock_candy_blue",
+      "calories_percent": 4,
+      "weight_percent": 1,
+      "hold_ticks": 25
+    },
+    {
+      "block": "alexscaves:rock_candy_brown",
+      "calories_percent": 4,
+      "weight_percent": 1,
+      "hold_ticks": 25
+    },
+    {
+      "block": "alexscaves:rock_candy_cyan",
+      "calories_percent": 4,
+      "weight_percent": 1,
+      "hold_ticks": 25
+    },
+    {
+      "block": "alexscaves:rock_candy_gray",
+      "calories_percent": 4,
+      "weight_percent": 1,
+      "hold_ticks": 25
+    },
+    {
+      "block": "alexscaves:rock_candy_green",
+      "calories_percent": 4,
+      "weight_percent": 1,
+      "hold_ticks": 25
+    },
+    {
+      "block": "alexscaves:rock_candy_light_blue",
+      "calories_percent": 4,
+      "weight_percent": 1,
+      "hold_ticks": 25
+    },
+    {
+      "block": "alexscaves:rock_candy_light_gray",
+      "calories_percent": 4,
+      "weight_percent": 1,
+      "hold_ticks": 25
+    },
+    {
+      "block": "alexscaves:rock_candy_lime",
+      "calories_percent": 4,
+      "weight_percent": 1,
+      "hold_ticks": 25
+    },
+    {
+      "block": "alexscaves:rock_candy_magenta",
+      "calories_percent": 4,
+      "weight_percent": 1,
+      "hold_ticks": 25
+    },
+    {
+      "block": "alexscaves:rock_candy_orange",
+      "calories_percent": 4,
+      "weight_percent": 1,
+      "hold_ticks": 25
+    },
+    {
+      "block": "alexscaves:rock_candy_pink",
+      "calories_percent": 4,
+      "weight_percent": 1,
+      "hold_ticks": 25
+    },
+    {
+      "block": "alexscaves:rock_candy_purple",
+      "calories_percent": 4,
+      "weight_percent": 1,
+      "hold_ticks": 25
+    },
+    {
+      "block": "alexscaves:rock_candy_red",
+      "calories_percent": 4,
+      "weight_percent": 1,
+      "hold_ticks": 25
+    },
+    {
+      "block": "alexscaves:rock_candy_white",
+      "calories_percent": 4,
+      "weight_percent": 1,
+      "hold_ticks": 25
+    },
+    {
+      "block": "alexscaves:rock_candy_yellow",
+      "calories_percent": 4,
+      "weight_percent": 1,
+      "hold_ticks": 25
+    },
+    {
+      "block": "alexscaves:sugar_glass",
+      "calories_percent": 4,
+      "weight_percent": 1,
+      "hold_ticks": 25
+    },
+    {
+      "block": "alexscaves:licoroot",
+      "calories_percent": 3,
+      "weight_percent": 1,
+      "hold_ticks": 20
+    },
+    {
+      "block": "alexscaves:giant_sweetberry",
+      "calories_percent": 3,
+      "weight_percent": 1,
+      "hold_ticks": 20
+    },
+    {
+      "block": "alexscaves:sundrop",
+      "calories_percent": 3,
+      "weight_percent": 1,
+      "hold_ticks": 20
+    },
+    {
+      "block": "alexscaves:frostmint",
+      "calories_percent": 3,
+      "weight_percent": 1,
+      "hold_ticks": 20
+    }
+  ]
+}

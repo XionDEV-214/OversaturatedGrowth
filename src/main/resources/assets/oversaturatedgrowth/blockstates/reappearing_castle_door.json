@@ -1,0 +1,5 @@
+{"variants":{
+"active=false,vanished=false":{"model":"oversaturatedgrowth:block/reappearing_castle_door"},
+"active=false,vanished=true":{"model":"oversaturatedgrowth:block/reappearing_castle_door_vanished"},
+"active=true,vanished=false":{"model":"oversaturatedgrowth:block/reappearing_castle_door_active"},
+"active=true,vanished=true":{"model":"oversaturatedgrowth:block/reappearing_castle_door_vanished_active"}}}

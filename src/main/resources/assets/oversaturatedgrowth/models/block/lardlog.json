@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "oversaturatedgrowth:block/lardlog_updown",
+    "side": "oversaturatedgrowth:block/lardlog_side"
+  }
+}

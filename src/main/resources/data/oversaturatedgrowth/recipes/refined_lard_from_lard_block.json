@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "oversaturatedgrowth:lard_block"
+    }
+  ],
+  "result": {
+    "item": "oversaturatedgrowth:refined_lard",
+    "count": 4
+  }
+}

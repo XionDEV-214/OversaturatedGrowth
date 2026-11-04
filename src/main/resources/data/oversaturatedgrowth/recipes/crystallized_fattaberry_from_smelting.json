@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": {
+    "item": "oversaturatedgrowth:fattaberry"
+  },
+  "result": "oversaturatedgrowth:crystallized_fattaberry",
+  "experience": 0.3,
+  "cookingtime": 200
+}

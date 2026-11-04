@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "variant=1,up=false,down=false": {
+      "model": "oversaturatedgrowth:block/lardlog_leaves_vein_1"
+    },
+    "variant=1,up=false,down=true": {
+      "model": "oversaturatedgrowth:block/lardlog_leaves_vein_1_top"
+    },
+    "variant=1,up=true,down=true": {
+      "model": "oversaturatedgrowth:block/lardlog_leaves_vein_1_mid"
+    },
+    "variant=1,up=true,down=false": {
+      "model": "oversaturatedgrowth:block/lardlog_leaves_vein_1_bottom"
+    },
+    "variant=2,up=false,down=false": {
+      "model": "oversaturatedgrowth:block/lardlog_leaves_vein_2"
+    },
+    "variant=2,up=false,down=true": {
+      "model": "oversaturatedgrowth:block/lardlog_leaves_vein_2_top"
+    },
+    "variant=2,up=true,down=true": {
+      "model": "oversaturatedgrowth:block/lardlog_leaves_vein_2_mid"
+    },
+    "variant=2,up=true,down=false": {
+      "model": "oversaturatedgrowth:block/lardlog_leaves_vein_2_bottom"
+    }
+  }
+}

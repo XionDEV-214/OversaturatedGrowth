@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "oversaturatedgrowth:inert_fattaberry"
+    },
+    {
+      "item": "oversaturatedgrowth:refined_lard"
+    }
+  ],
+  "result": {
+    "item": "oversaturatedgrowth:fattaberry"
+  }
+}

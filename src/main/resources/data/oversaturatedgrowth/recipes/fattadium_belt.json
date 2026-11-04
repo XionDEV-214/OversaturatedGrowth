@@ -1,0 +1,28 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "curios"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "LLL",
+    "FCF"
+  ],
+  "key": {
+    "L": {
+      "item": "minecraft:leather"
+    },
+    "F": {
+      "item": "oversaturatedgrowth:fattadium"
+    },
+    "C": {
+      "item": "oversaturatedgrowth:crystallized_fattaberry"
+    }
+  },
+  "result": {
+    "item": "oversaturatedgrowth:fattadium_belt"
+  }
+}

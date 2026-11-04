@@ -1,0 +1,35 @@
+{
+  "type": "oversaturatedgrowth:giant_cavern",
+  "config": {
+    "probability": 0.08,
+    "y": {
+      "type": "minecraft:uniform",
+      "min_inclusive": {
+        "absolute": -24
+      },
+      "max_inclusive": {
+        "absolute": -4
+      }
+    },
+    "yScale": 1.0,
+    "lava_level": {
+      "above_bottom": 0
+    },
+    "replaceable": "#oversaturatedgrowth:lard_carver_replaceables",
+    "horizontal_radius_multiplier": {
+      "type": "minecraft:uniform",
+      "value": {
+        "min_inclusive": 26.0,
+        "max_exclusive": 44.0
+      }
+    },
+    "vertical_radius_multiplier": {
+      "type": "minecraft:uniform",
+      "value": {
+        "min_inclusive": 14.0,
+        "max_exclusive": 22.0
+      }
+    },
+    "floor_level": -0.55
+  }
+}

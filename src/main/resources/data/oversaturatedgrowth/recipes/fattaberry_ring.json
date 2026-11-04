@@ -1,0 +1,25 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "curios"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "FCF",
+    " F "
+  ],
+  "key": {
+    "F": {
+      "item": "oversaturatedgrowth:fattadium"
+    },
+    "C": {
+      "item": "oversaturatedgrowth:crystallized_fattaberry"
+    }
+  },
+  "result": {
+    "item": "oversaturatedgrowth:fattaberry_ring"
+  }
+}

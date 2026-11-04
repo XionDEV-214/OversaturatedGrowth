@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=y": {
+      "model": "oversaturatedgrowth:block/lardlog"
+    },
+    "axis=z": {
+      "model": "oversaturatedgrowth:block/lardlog_horizontal",
+      "x": 90
+    },
+    "axis=x": {
+      "model": "oversaturatedgrowth:block/lardlog_horizontal",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

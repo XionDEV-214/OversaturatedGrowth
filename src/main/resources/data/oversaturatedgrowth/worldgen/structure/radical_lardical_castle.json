@@ -1,0 +1,7 @@
+{
+  "type": "oversaturatedgrowth:radical_lardical_castle",
+  "biomes": "#oversaturatedgrowth:has_castle",
+  "step": "surface_structures",
+  "spawn_overrides": {},
+  "terrain_adaptation": "none"
+}

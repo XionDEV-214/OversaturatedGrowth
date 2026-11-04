@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "oversaturatedgrowth:block/cracked_castle_wood"
+      },
+      {
+        "model": "oversaturatedgrowth:block/cracked_castle_wood_alt"
+      }
+    ]
+  }
+}

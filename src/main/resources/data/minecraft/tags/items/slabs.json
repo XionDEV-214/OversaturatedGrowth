@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "oversaturatedgrowth:lardstone_slab",
+    "oversaturatedgrowth:polished_lardstone_slab",
+    "oversaturatedgrowth:lardstone_brick_slab",
+    "oversaturatedgrowth:lardlog_slab"
+  ]
+}

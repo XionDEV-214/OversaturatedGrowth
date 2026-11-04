@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "XX",
+    "XX"
+  ],
+  "key": {
+    "X": {
+      "item": "oversaturatedgrowth:refined_lard"
+    }
+  },
+  "result": {
+    "item": "oversaturatedgrowth:lard_block"
+  }
+}

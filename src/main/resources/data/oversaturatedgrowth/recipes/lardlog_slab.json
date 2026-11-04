@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "oversaturatedgrowth:lardlog_planks"
+    }
+  },
+  "result": {
+    "item": "oversaturatedgrowth:lardlog_slab",
+    "count": 6
+  }
+}

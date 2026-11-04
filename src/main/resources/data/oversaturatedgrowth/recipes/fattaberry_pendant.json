@@ -1,0 +1,25 @@
+{
+  "conditions": [
+    {
+      "type": "forge:false"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    " S ",
+    "S S",
+    " C "
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:string"
+    },
+    "C": {
+      "item": "oversaturatedgrowth:crystallized_fattaberry"
+    }
+  },
+  "result": {
+    "item": "oversaturatedgrowth:fattaberry_pendant"
+  }
+}

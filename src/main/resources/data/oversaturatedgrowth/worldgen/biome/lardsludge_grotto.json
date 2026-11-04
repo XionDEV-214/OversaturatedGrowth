@@ -1,0 +1,105 @@
+{
+  "has_precipitation": false,
+  "temperature": 0.8,
+  "downfall": 0.6,
+  "creature_spawn_probability": 0.25,
+  "effects": {
+    "sky_color": 7907327,
+    "fog_color": 14333552,
+    "water_color": 4159204,
+    "water_fog_color": 329011,
+    "grass_color": 13280608,
+    "foliage_color": 15245858,
+    "mood_sound": {
+      "sound": "minecraft:ambient.cave",
+      "tick_delay": 6000,
+      "block_search_extent": 8,
+      "offset": 2.0
+    }
+  },
+  "spawners": {
+    "monster": [
+      {
+        "type": "oversaturatedgrowth:lard_slime",
+        "weight": 12,
+        "minCount": 1,
+        "maxCount": 2
+      }
+    ],
+    "creature": [
+      {
+        "type": "oversaturatedgrowth:lardy_pig",
+        "weight": 10,
+        "minCount": 2,
+        "maxCount": 4
+      },
+      {
+        "type": "oversaturatedgrowth:lardy_cow",
+        "weight": 8,
+        "minCount": 2,
+        "maxCount": 4
+      },
+      {
+        "type": "oversaturatedgrowth:lardy_sheep",
+        "weight": 10,
+        "minCount": 2,
+        "maxCount": 4
+      },
+      {
+        "type": "oversaturatedgrowth:lardy_chicken",
+        "weight": 10,
+        "minCount": 3,
+        "maxCount": 5
+      },
+      {
+        "type": "oversaturatedgrowth:glutton_toad",
+        "weight": 3,
+        "minCount": 1,
+        "maxCount": 1
+      }
+    ],
+    "ambient": [],
+    "axolotls": [],
+    "underground_water_creature": [],
+    "water_creature": [],
+    "water_ambient": [
+      {
+        "type": "oversaturatedgrowth:lardfin",
+        "weight": 4,
+        "minCount": 1,
+        "maxCount": 2
+      }
+    ],
+    "misc": []
+  },
+  "spawn_costs": {},
+  "carvers": {
+    "air": [
+      "oversaturatedgrowth:giant_lard_cavern",
+      "oversaturatedgrowth:lard_cavern"
+    ]
+  },
+  "features": [
+    [],
+    [],
+    [
+      "oversaturatedgrowth:lard_pool"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      "oversaturatedgrowth:weathering",
+      "oversaturatedgrowth:greasy_splatter",
+      "oversaturatedgrowth:lard_crater"
+    ],
+    [],
+    [
+      "oversaturatedgrowth:lard_drape",
+      "oversaturatedgrowth:lardlog_grotto_trees",
+      "oversaturatedgrowth:grotto_fauna"
+    ],
+    []
+  ]
+}

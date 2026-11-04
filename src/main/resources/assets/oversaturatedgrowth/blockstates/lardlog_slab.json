@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "oversaturatedgrowth:block/lardlog_slab"
+    },
+    "type=top": {
+      "model": "oversaturatedgrowth:block/lardlog_slab_top"
+    },
+    "type=double": {
+      "model": "oversaturatedgrowth:block/lardlog_planks"
+    }
+  }
+}

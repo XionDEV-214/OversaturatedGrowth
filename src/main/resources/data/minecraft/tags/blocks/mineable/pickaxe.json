@@ -1,0 +1,24 @@
+{
+  "replace": false,
+  "values": [
+    "oversaturatedgrowth:lard_extractor",
+    "oversaturatedgrowth:lardstone",
+    "oversaturatedgrowth:weathered_lardstone",
+    "oversaturatedgrowth:polished_lardstone",
+    "oversaturatedgrowth:carved_lardstone",
+    "oversaturatedgrowth:lardstone_bricks",
+    "oversaturatedgrowth:lardstone_slates",
+    "oversaturatedgrowth:lardstone_stairs",
+    "oversaturatedgrowth:lardstone_slab",
+    "oversaturatedgrowth:lardstone_wall",
+    "oversaturatedgrowth:polished_lardstone_stairs",
+    "oversaturatedgrowth:polished_lardstone_slab",
+    "oversaturatedgrowth:polished_lardstone_wall",
+    "oversaturatedgrowth:lardstone_brick_stairs",
+    "oversaturatedgrowth:lardstone_brick_slab",
+    "oversaturatedgrowth:lardstone_brick_wall",
+    "oversaturatedgrowth:fattadium_ore",
+    "oversaturatedgrowth:greasy_lardstone",
+    "oversaturatedgrowth:weathered_greasy_lardstone"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": {
+    "item": "oversaturatedgrowth:fattadium_ore"
+  },
+  "result": "oversaturatedgrowth:fattadium",
+  "experience": 0.7,
+  "cookingtime": 200
+}

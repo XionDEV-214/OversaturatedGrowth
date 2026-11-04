@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "oversaturatedgrowth:castle_wood",
+    "oversaturatedgrowth:cracked_castle_wood",
+    "oversaturatedgrowth:encased_castle_wood",
+    "oversaturatedgrowth:reappearing_castle_door",
+    "oversaturatedgrowth:infested_castle_wood"
+  ]
+}

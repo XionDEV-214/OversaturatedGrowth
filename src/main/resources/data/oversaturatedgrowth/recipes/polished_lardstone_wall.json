@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "oversaturatedgrowth:polished_lardstone"
+    }
+  },
+  "result": {
+    "item": "oversaturatedgrowth:polished_lardstone_wall",
+    "count": 6
+  }
+}

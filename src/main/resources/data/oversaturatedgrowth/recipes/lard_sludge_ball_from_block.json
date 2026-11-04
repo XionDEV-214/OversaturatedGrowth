@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "oversaturatedgrowth:lard_sludge_block"
+    }
+  ],
+  "result": {
+    "item": "oversaturatedgrowth:lard_sludge_ball",
+    "count": 9
+  }
+}

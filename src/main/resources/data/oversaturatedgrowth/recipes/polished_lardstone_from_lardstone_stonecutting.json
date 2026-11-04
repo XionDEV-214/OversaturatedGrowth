@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "oversaturatedgrowth:lardstone"
+  },
+  "result": "oversaturatedgrowth:polished_lardstone",
+  "count": 1
+}

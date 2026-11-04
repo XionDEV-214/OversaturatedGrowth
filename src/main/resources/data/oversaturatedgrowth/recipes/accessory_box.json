@@ -1,0 +1,31 @@
+{
+  "conditions": [
+    {
+      "type": "forge:false"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "GFG",
+    "FRF",
+    "CCC"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "F": {
+      "item": "oversaturatedgrowth:fattadium"
+    },
+    "R": {
+      "item": "oversaturatedgrowth:refined_lard"
+    },
+    "C": {
+      "item": "oversaturatedgrowth:crystallized_fattaberry"
+    }
+  },
+  "result": {
+    "item": "oversaturatedgrowth:accessory_box"
+  }
+}

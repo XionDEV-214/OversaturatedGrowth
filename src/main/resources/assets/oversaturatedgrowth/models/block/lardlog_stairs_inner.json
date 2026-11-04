@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "oversaturatedgrowth:block/lardlog_planks",
+    "top": "oversaturatedgrowth:block/lardlog_planks",
+    "side": "oversaturatedgrowth:block/lardlog_planks"
+  }
+}

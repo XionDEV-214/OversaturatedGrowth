@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "oversaturatedgrowth:lardlog_planks",
+    "oversaturatedgrowth:lardlog_stairs",
+    "oversaturatedgrowth:lardlog_slab",
+    "oversaturatedgrowth:lardlog",
+    "oversaturatedgrowth:castle_wood",
+    "oversaturatedgrowth:cracked_castle_wood",
+    "oversaturatedgrowth:encased_castle_wood",
+    "oversaturatedgrowth:reappearing_castle_door",
+    "oversaturatedgrowth:infested_castle_wood"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "oversaturatedgrowth:lardstone_bricks"
+  },
+  "result": "oversaturatedgrowth:lardstone_slates",
+  "count": 1
+}

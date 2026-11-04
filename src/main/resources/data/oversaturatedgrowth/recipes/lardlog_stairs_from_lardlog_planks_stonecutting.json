@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "oversaturatedgrowth:lardlog_planks"
+  },
+  "result": "oversaturatedgrowth:lardlog_stairs",
+  "count": 1
+}

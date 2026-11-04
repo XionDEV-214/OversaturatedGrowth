@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "oversaturatedgrowth:item/accessories/belt_leather_tint",
+    "layer1": "oversaturatedgrowth:item/accessories/belt_core"
+  }
+}

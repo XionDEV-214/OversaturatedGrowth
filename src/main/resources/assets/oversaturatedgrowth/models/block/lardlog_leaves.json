@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/leaves",
+  "textures": {
+    "all": "oversaturatedgrowth:block/lardlog_leaves"
+  },
+  "render_type": "minecraft:cutout_mipped"
+}

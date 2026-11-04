@@ -1,0 +1,76 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "aoa3"
+    }
+  ],
+  "entries": [
+    {
+      "block": "aoa3:chocolate_block",
+      "calories_percent": 12,
+      "weight_percent": 4,
+      "hold_ticks": 40
+    },
+    {
+      "block": "aoa3:dark_chocolate_block",
+      "calories_percent": 12,
+      "weight_percent": 4,
+      "hold_ticks": 40
+    },
+    {
+      "block": "aoa3:white_chocolate_block",
+      "calories_percent": 12,
+      "weight_percent": 4,
+      "hold_ticks": 40
+    },
+    {
+      "block": "aoa3:gingerbread",
+      "calories_percent": 12,
+      "weight_percent": 4,
+      "hold_ticks": 40
+    },
+    {
+      "block": "aoa3:green_candy",
+      "calories_percent": 6,
+      "weight_percent": 2,
+      "hold_ticks": 30
+    },
+    {
+      "block": "aoa3:red_candy",
+      "calories_percent": 6,
+      "weight_percent": 2,
+      "hold_ticks": 30
+    },
+    {
+      "block": "aoa3:white_candy",
+      "calories_percent": 6,
+      "weight_percent": 2,
+      "hold_ticks": 30
+    },
+    {
+      "block": "aoa3:aqua_cotton_candy",
+      "calories_percent": 3,
+      "weight_percent": 1,
+      "hold_ticks": 20
+    },
+    {
+      "block": "aoa3:pink_cotton_candy",
+      "calories_percent": 3,
+      "weight_percent": 1,
+      "hold_ticks": 20
+    },
+    {
+      "block": "aoa3:candycane",
+      "calories_percent": 3,
+      "weight_percent": 1,
+      "hold_ticks": 20
+    },
+    {
+      "block": "aoa3:candy_tube",
+      "calories_percent": 3,
+      "weight_percent": 1,
+      "hold_ticks": 20
+    }
+  ]
+}
