@@ -72,7 +72,7 @@ public class ModBlocks {
     public static final RegistryObject<Block> LARDY_WOOL = reg("lardy_wool", () -> new Block(BlockBehaviour.Properties.copy(Blocks.WHITE_WOOL)));
 
     private static BlockBehaviour.Properties castleWood() {
-        return BlockBehaviour.Properties.of().mapColor(MapColor.WOOD).strength(30.0f, 1200.0f)
+        return BlockBehaviour.Properties.of().mapColor(MapColor.WOOD).strength(60.0f, 1200.0f)
                 .sound(SoundType.WOOD).requiresCorrectToolForDrops();
     }
     public static final RegistryObject<Block> CASTLE_WOOD = reg("castle_wood", () -> new Block(castleWood()));
@@ -81,7 +81,7 @@ public class ModBlocks {
     public static final RegistryObject<Block> REAPPEARING_CASTLE_DOOR = reg("reappearing_castle_door",
             () -> new com.eisiadev.oversaturatedgrowth.block.ReappearingBlock(BlockBehaviour.Properties.of().lightLevel(st -> 4)
                     .mapColor(MapColor.WOOD).pushReaction(net.minecraft.world.level.material.PushReaction.BLOCK)
-                    .requiresCorrectToolForDrops().sound(SoundType.WOOD).strength(10.0F, 35.0F)));
+                    .requiresCorrectToolForDrops().sound(SoundType.WOOD).strength(20.0F, 35.0F)));
     public static final RegistryObject<Block> INFESTED_CASTLE_WOOD = reg("infested_castle_wood", () -> new Block(castleWood()));
     public static final RegistryObject<Block> POLISHED_LARDSTONE = reg("polished_lardstone", () -> new Block(stone()));
     public static final RegistryObject<Block> CARVED_LARDSTONE = reg("carved_lardstone", () -> new Block(stone()));
